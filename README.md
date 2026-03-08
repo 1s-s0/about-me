@@ -84,6 +84,6 @@ React • TypeScript • GitHub API
 ## 🌐 Connect
 
 GitHub  
-https://github.com/1s-s0
+https://github.com/1s-s0  
 Telegram  
 https://t.me/tme_usernamez
